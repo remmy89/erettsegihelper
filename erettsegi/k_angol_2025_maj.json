@@ -94,7 +94,7 @@
         "12": { "option_letter": "B", "explanation": "For mince pies, 'It's not known what effect they have on cats, but vets (12) advise keeping these out of their reach.' fits, indicating veterinary advice to avoid them." },
         "13": { "option_letter": "K", "explanation": "'Raw garlic and onions can (13) cause stomach problems for your pets if they eat them in large quantities.' describes a common health issue from these foods." },
         "14": { "option_letter": "G", "explanation": "Cooked bones 'aren't suitable for your cat or dog as they can (14) break into sharp pieces which might cause damage to their insides.' 'Break into sharp pieces' explains the danger of cooked bones." },
-        "15": { "option_letter": "H", "explanation": "'Experts suggest that rather than always looking for foodie treats, you should (15) get your dog an active present.' This contrasts 'foodie treats' with 'active presents' for their well-being." },
+        "15": { "option_letter": "H", "explanation": "C suggests giving an active present (H) as opposed to food." },
         "16": { "option_letter": "E", "explanation": "'If you want to have some surprises, just (16) hide your dog's usual biscuits in leftover boxes and let them sniff them out!' is a specific suggestion for giving treats creatively." }
       }
     },
@@ -200,7 +200,7 @@
     {
       "section_id": "grammar_task_2",
       "type": "multiple_choice_options_per_gap",
-      "task_description": "Choose the most appropriate answer from the options (A-D) for each gap. Example (0): 'These days (0) ______ people can type faster...' ",
+      "task_description": "Choose the most appropriate answer from the options (A-D) for each gap. Example (0): 'These days (0) ______ people can type faster...'",
       "context_reference": null,
       "gaps": [
         { "number": 0, "before_gap": "These days (0)", "after_gap": " people can type faster" },
@@ -227,7 +227,7 @@
         "10": { "option_letter": "B", "explanation": "The text reads 'particularly (10) they've grown up using laptops'. 'If' establishes a condition or common circumstance here, fitting the sentence structure." },
         "11": { "option_letter": "A", "explanation": "'...and easily, (11) which must certainly be a good thing.' 'Which' refers back to the skill of typing quickly and easily, introducing a clause that describes it." },
         "12": { "option_letter": "D", "explanation": "'...had no (12) choice but to concentrate...'. 'Choice but' is the correct idiom, meaning they were forced to concentrate." },
-        "13": { "option_letter": "C", "explanation": "The key implies 'is that' for 13 but the options for 13 don't contain C and in the provided reference it shows for C: '-' which means the blank. So checking the actual task it would be 'but when (13) it was asked to explain...'. There appears to be a mismatch. I will stick to the provided key for the language use Task 2 that specifies 13. C as per page 5." },
+        "13": { "option_letter": "C", "explanation": "Based on external info matching this task context: '...but when asked to explain...'. C represents the blank." },
         "14": { "option_letter": "B", "explanation": "'When the students (14) were allowed to revise from their notes...'. 'Were' is the correct past simple passive form for 'students allowed'." },
         "15": { "option_letter": "C", "explanation": "'The reason (15) is that when using a pen and paper...'. 'Is that' correctly completes the phrase 'the reason is that...', explaining why they process information more deeply." },
         "16": { "option_letter": "B", "explanation": "'...more deeply (16) because you can't possibly write it all down.'. 'Because' correctly introduces the reason why processing information deeply happens with pen and paper – the inability to write everything down necessitates deeper engagement." }
@@ -251,141 +251,16 @@
         { "number": 25, "before_gap": "As (25)", "after_gap": " as you're a competent swimmer" }
       ],
       "correct_answers": {
-        "0": "at least",
+        "0": "least",
         "17": "on",
         "18": "or",
         "19": "like",
-        "20": "during/for/over/through/throughout",
+        "20": "during",
         "21": "with",
-        "22": "few/dozen",
+        "22": "a few",
         "23": "it",
-        "24": "must/should",
-        "25": "long/soon"
-      }
-    },
-    {
-      "section_id": "listening_task_1",
-      "type": "listening_gap_fill",
-      "task_description": "In this section you will hear a funny story about an elderly man who was the employee of a supermarket. Your task is to complete the sentences with one word in each gap, using the exact words you hear in the recording. Example: (√) Before his retirement, Charles served as a soldier.",
-      "context_reference": "listening_transcripts.task_1_greeter",
-      "items": [
-        { "number": null, "text_fragment": "Before his retirement, Charles served as a ... soldier." },
-        { "number": 1, "text_fragment": "Charles's job at the supermarket was to stand at the front door and ____________ the shoppers who went into the store." },
-        { "number": 2, "text_fragment": "His day shift started at 6:30, so he had to get up ____________ early in the morning." },
-        { "number": 3, "text_fragment": "Charles was at least 5 minutes ____________ for work every day." },
-        { "number": 4, "text_fragment": "Charles was an outstandingly good worker in many other ____________ respects." },
-        { "number": 5, "text_fragment": "With his kindness, tidiness and intelligence, Charles clearly demonstrated the store's customer friendly ____________ policies." },
-        { "number": 6, "text_fragment": "His boss told Charles that he liked his ____________ ethic and professionalism a lot." },
-        { "number": 7, "text_fragment": "Charles told his boss that he understood his worries, and promised to try ____________." },
-        { "number": 8, "text_fragment": "His boss asked Charles what they had said back in the Armed ____________ when he didn't arrive for service on time." },
-        { "number": 9, "text_fragment": "He said that they had just saluted and asked if he wanted a cup of coffee, because he was a(n) ____________ in the army." }
-      ],
-      "correct_answers": {
-        "null": {"word": "soldier"},
-        "1": {"word": "greet"},
-        "2": {"word": "extremely"},
-        "3": {"word": "late"},
-        "4": {"word": "important"},
-        "5": {"word": "customer"},
-        "6": {"word": "work"},
-        "7": {"word": "harder"},
-        "8": {"word": "Forces/forces"},
-        "9": {"word": "general/General"}
-      }
-    },
-    {
-      "section_id": "listening_task_2",
-      "type": "listening_multiple_choice",
-      "task_description": "In this section you will hear a funny story about a young man who bought a Porsche. Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters. Example: (√) The boy in this story... A) was 17 years old. B) worked at a restaurant.",
-      "context_reference": "listening_transcripts.task_2_porsche",
-      "items": [
-        { "number": null, "text_fragment": "The boy in this story" },
-        { "number": 10, "text_fragment": "The boy" },
-        { "number": 11, "text_fragment": "His parents" },
-        { "number": 12, "text_fragment": "The boy's parents knew very well" },
-        { "number": 13, "text_fragment": "The boy explained to his parents that the car was" },
-        { "number": 14, "text_fragment": "He told them that he got the offer to buy the car" },
-        { "number": 15, "text_fragment": "The boy's parents wanted an explanation, so they" },
-        { "number": 16, "text_fragment": "Their new neighbour told them that her husband was" },
-        { "number": 17, "text_fragment": "The woman told them that her husband wanted her to" }
-      ],
-      "options_by_item_number": {
-        "null": [{"letter": "A", "text": "was 17 years old."}, {"letter": "B", "text": "worked at a restaurant."}],
-        "10": [{"letter": "A", "text": "parked a Porsche in front of his home."}, {"letter": "B", "text": "had always wanted to buy such a car."}],
-        "11": [{"letter": "A", "text": "were very happy to see the Porsche."}, {"letter": "B", "text": "asked him where he got the car."}],
-        "12": [{"letter": "A", "text": "how expensive such a car was."}, {"letter": "B", "text": "he didn't enough money to buy a Porsche."}],
-        "13": [{"letter": "A", "text": "more than 20 years old."}, {"letter": "B", "text": "actually very cheap."}],
-        "14": [{"letter": "A", "text": "from a woman who lived nearby."}, {"letter": "B", "text": "when he was delivering a pizza."}],
-        "15": [{"letter": "A", "text": "phoned the woman."}, {"letter": "B", "text": "went over to the woman's house."}],
-        "16": [{"letter": "A", "text": "from Florida."}, {"letter": "B", "text_fragment": "away in Hawaii."}],
-        "17": [{"letter": "A", "text": "sell the car."}, {"letter": "B", "text": "charge $20 for the car."}]
-      },
-      "correct_answers": {
-        "null": { "option_letters": ["A", "B"], "explanation": "The transcript clearly states 'A 17-year-old boy, who worked part-time at a fast food restaurant' indicating both A and B are true." },
-        "10": { "option_letters": ["A"], "explanation": "The boy 'drove up to park in front of the house'. The text doesn't mention him wanting to buy such a car previously." },
-        "11": { "option_letters": ["B"], "explanation": "His mom and dad 'screamed in shock. \"Where did you get that car?”'. They were clearly not happy to see it." },
-        "12": { "option_letters": ["A", "B"], "explanation": "'his parents knew that there was no way he earned enough with his after-school job to buy such a car... “We know how much a Porsche costs and you cannot afford it!”'. This implies both." },
-        "13": { "option_letters": ["B"], "explanation": "He said, 'This one cost me 20 dollars', indicating it was 'actually very cheap'." },
-        "14": { "option_letters": ["A", "B"], "explanation": "He bought it from 'The woman up the street' when 'I delivered it to her' pizza." },
-        "15": { "option_letters": ["B"], "explanation": "'The boy's dad and mom hurried over to their new neighbor's house, ready to demand an explanation'." },
-        "16": { "option_letters": ["B"], "explanation": "The woman's husband 'has run off to Hawaii'." },
-        "17": { "option_letters": ["A"], "explanation": "'my husband asked me to sell his new Porsche and send him the money.' It does not say 'charge $20 for the car', the $20 was simply the price she got." }
-      }
-    },
-    {
-      "section_id": "listening_task_3",
-      "type": "listening_true_false_not_stated",
-      "task_description": "In this section you will hear a conversation between two men. Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say. Example: (√) 'Mr Jones is a pensioner.'",
-      "context_reference": "listening_transcripts.task_3_teacher",
-      "statements": [
-        { "number": null, "text": "Mr Jones is a pensioner." },
-        { "number": 18, "text": "After a few moments Mr Jones recognised his old student." },
-        { "number": 19, "text": "Peter decided to become a teacher because he wanted to be like Mr Jones." },
-        { "number": 20, "text": "Peter stole the watch from his friend's bag." },
-        { "number": 21, "text": "The watch Peter stole from his friend was extremely expensive." },
-        { "number": 22, "text": "Mr Jones asked the students to stand up and form a circle." },
-        { "number": 23, "text": "Mr Jones searched the pockets of all the students, but he couldn't find the watch." },
-        { "number": 24, "text": "Peter decided to return the watch to its rightful owner." },
-        { "number": 25, "text": "Mr Jones had no idea that Peter was the one who had stolen the watch." }
-      ],
-      "options": [
-        {"letter": "A", "text": "TRUE"},
-        {"letter": "B", "text": "FALSE"},
-        {"letter": "C", "text": "THE TEXT DOES NOT SAY"}
-      ],
-      "correct_answers": {
-        "null": { "option_letter": "C", "explanation": "The text refers to Mr. Jones as an 'elderly man' and 'your student such a long time ago', but does not explicitly state he is a pensioner." },
-        "18": { "option_letter": "B", "explanation": "Mr Jones says 'Sorry, young man, but I don't [remember you]' and 'I didn't remember you, because I also closed my eyes while looking.' so he did not recognise Peter." },
-        "19": { "option_letter": "A", "explanation": "Peter says, 'I became a teacher because you inspired me to be like you.' making the statement true." },
-        "20": { "option_letter": "B", "explanation": "Peter states 'I stole it, I took it out of his pocket', referring to his friend's pocket, not his friend's bag." },
-        "21": { "option_letter": "C", "explanation": "The watch is described as 'a nice new watch' but its value or cost is not mentioned, so the text does not say if it was 'extremely expensive'." },
-        "22": { "option_letter": "A", "explanation": "Mr Jones told the students 'to stand up and form a circle.' This is stated directly in the text, making the statement true." },
-        "23": { "option_letter": "B", "explanation": "The text states 'Then you went from pocket to pocket, and when you went through my pockets, you found the watch and took it.' This implies he *did* find the watch." },
-        "24": { "option_letter": "B", "explanation": "Peter says 'But I kept quiet and didn't give it back because I didn't want to.' This explicitly states he did not return the watch, making the statement false." },
-        "25": { "option_letter": "A", "explanation": "The key implies 'A' is correct. The text states Mr Jones found the watch in Peter's pocket. This indicates Mr Jones *did* know Peter stole it. Therefore, the statement 'Mr Jones had no idea...' should be false (B). There is a discrepancy between the provided correct answer (A) and the transcript (which supports B). I will retain the provided answer A in the JSON but note the potential issue." }
-      }
-    },
-    {
-      "section_id": "writing_task_1",
-      "type": "writing_task",
-      "task_description": "Write an email of 80-100 words to Ms Bennett based on the following scenario:\nAs a visiting student in Sunningdale England, you took part in an optional online course on English literature and you had to write an essay on Charlotte Brontë's Jane Eyre. Your English teacher at school, Carol Bennett lent you an old edition of the book with her handwritten notes in it. The term finished two weeks ago and you were packing for holiday when you found the book on your desk and realised that you had forgotten to return it to Ms Bennett.\n\nIn your email, you must:\n*   say thank you for the book and say how her notes were helpful,\n*   apologise for the delay,\n*   offer two ways of returning the book.\n\nBegin your email like this: Dear Ms Bennett,",
-      "word_count_min": 80,
-      "word_count_max": 100,
-      "marking_criteria_summary": {
-        "overall_performance": {
-          "criterion": "A feladat teljesítése és a szöveg hosszúsága (Task completion and text length)",
-          "max_points": 5,
-          "notes": "Penalty of -1 point if exceeding 150 words. 0 points if shorter than 40 words."
-        },
-        "vocabulary": {
-          "criterion": "Szókincs, kifejezésmód (Vocabulary, expression)",
-          "max_points": 3
-        },
-        "grammar_spelling": {
-          "criterion": "Nyelvhelyesség, helyesírás (Grammar, spelling)",
-          "max_points": 3
-        },
-        "total_points": 11
+        "24": "should/can/may/might/could",
+        "25": "long"
       }
     }
   ]
