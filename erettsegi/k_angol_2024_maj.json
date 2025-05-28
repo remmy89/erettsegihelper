@@ -1,0 +1,60 @@
+{
+  "exam_id": "k_angol_2024_maj",
+  "subject": "Angol",
+  "level": "Középszint",
+  "year": "2024 május",
+  "tasks": [
+    {
+      "question_id": "1",
+      "type": "multiple_choice",
+      "question_text": "Complete the sentence: 'She ________ to the gym every day.'",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "For third-person singular (she, he, it) in the present simple tense, we add -es to verbs ending in -o."
+    },
+    {
+      "question_id": "2",
+      "type": "multiple_choice",
+      "question_text": "What is the past tense of 'eat'?",
+      "options": [
+        "eaten",
+        "ate",
+        "eat",
+        "eating"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "'Ate' is the simple past tense of the irregular verb 'to eat'."
+    },
+    {
+      "question_id": "3",
+      "type": "multiple_choice",
+      "question_text": "Which of these is a modal verb?",
+      "options": [
+        "runs",
+        "sang",
+        "can",
+        "walked"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "'Can' is a modal verb, used to express ability or permission. The others are regular verbs in different tenses."
+    },
+    {
+      "question_id": "4",
+      "type": "multiple_choice",
+      "question_text": "Identify the adjective in the following sentence: 'The red car is fast.'",
+      "options": [
+        "The",
+        "red",
+        "car",
+        "is"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "'Red' describes the noun 'car', making it an adjective."
+    }
+  ]
+}
