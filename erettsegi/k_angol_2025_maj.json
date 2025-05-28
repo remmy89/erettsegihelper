@@ -317,7 +317,7 @@
         "13": [{"letter": "A", "text": "more than 20 years old."}, {"letter": "B", "text": "actually very cheap."}],
         "14": [{"letter": "A", "text": "from a woman who lived nearby."}, {"letter": "B", "text": "when he was delivering a pizza."}],
         "15": [{"letter": "A", "text": "phoned the woman."}, {"letter": "B", "text": "went over to the woman's house."}],
-        "16": [{"letter": "A", "text": "from Florida."}, {"letter": "B", "text": "away in Hawaii."}],
+        "16": [{"letter": "A", "text": "from Florida."}, {"letter": "B", "text_fragment": "away in Hawaii."}],
         "17": [{"letter": "A", "text": "sell the car."}, {"letter": "B", "text": "charge $20 for the car."}]
       },
       "correct_answers": {
