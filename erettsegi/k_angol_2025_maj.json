@@ -1,7 +1,7 @@
 {
   "exam_id": "k_angol_2025_maj",
   "subject": "Angol",
-  "level": "Középszinű",
+  "level": "Középszintű",
   "year": "2025 május",
   "tasks": [
     {
@@ -23,7 +23,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 2,
-      "explanation": "The answer about being 17 years old directly corresponds to a question about age restrictions for learning to drive (C)."
+      "explanation": "A 17 éves életkorra vonatkozó válasz közvetlenül ahhoz a kérdéshez kapcsolódik, amely az életkori megkötésekről szól a vezetés tanulásához (C)."
     },
     {
       "question_id": "1_reading_1",
@@ -44,7 +44,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 5,
-      "explanation": "This answer details the number of hours of instruction required, matching 'How many lessons will it take...'"
+      "explanation": "Ez a válasz a szükséges oktatási órák számát részletezi, ami egyezik a „Hány óra kell a vezetés megtanulásához?” kérdéssel."
     },
     {
       "question_id": "2_reading_1",
@@ -65,7 +65,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 7,
-      "explanation": "The answer addresses the possibility of learning in one's own car, and mentions dual controls."
+      "explanation": "A válasz a saját autóban történő tanulás lehetőségével foglalkozik, és megemlíti a kettős pedálrendszert (dual controls)."
     },
     {
       "question_id": "3_reading_1",
@@ -86,7 +86,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 3,
-      "explanation": "The answer provides reasons for choosing daytime lessons, addressing 'What's the best time of day...'"
+      "explanation": "A válasz a nappali órák választásának okait sorolja fel, illeszkedik a „Melyik napszak a legjobb...” kérdéshez."
     },
     {
       "question_id": "4_reading_1",
@@ -107,7 +107,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 6,
-      "explanation": "The answer states the conditions for being picked up and dropped off at a specific location, matching 'Can I be picked up and dropped off anywhere?'"
+      "explanation": "A válasz meghatározza a fel- és leszállás feltételeit egy adott helyen, ami megegyezik a „Felvehetnek és letehetnek engem bárhol?” kérdéssel."
     },
     {
       "question_id": "5_reading_1",
@@ -128,7 +128,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 11,
-      "explanation": "This recommendation on the frequency of lessons aligns with 'How often should I take driving lessons?'"
+      "explanation": "Ez a javaslat a tanórák gyakoriságára vonatkozóan összhangban van a „Milyen gyakran vegyek vezetési órát?” kérdéssel."
     },
     {
       "question_id": "6_reading_1",
@@ -149,7 +149,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 10,
-      "explanation": "The answer explains how one can choose an instructor by viewing their profiles."
+      "explanation": "A válasz elmagyarázza, hogyan választhat valaki oktatót a profiljuk megtekintésével."
     },
     {
       "question_id": "7_reading_1",
@@ -170,7 +170,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 1,
-      "explanation": "The advice is given for someone who has failed their driving test."
+      "explanation": "A tanácsot azoknak adják, akik megbuktak a vezetésvizsgán."
     },
     {
       "question_id": "8_reading_1",
@@ -191,7 +191,7 @@
         "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 9,
-      "explanation": "The description perfectly defines L-plates."
+      "explanation": "A leírás tökéletesen definiálja az L-táblákat."
     },
     {
       "question_id": "0_reading_2",
@@ -211,7 +211,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 2,
-      "explanation": "The example directly refers to the action of feeding dogs, thus 'shouldn't be fed to them'."
+      "explanation": "A példa közvetlenül a kutyák etetésére vonatkozó cselekvésre utal, így a „nem szabad odaadni nekik” a megfelelő."
     },
     {
       "question_id": "9_reading_2",
@@ -231,7 +231,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 10,
-      "explanation": "The sentence indicates a need to be cautious about 'what should be avoided', implying 'avoiding certain things'."
+      "explanation": "A mondat óvatosságra inti az embert, hogy „mit kell kerülni”, ami arra utal, hogy „bizonyos dolgok elkerülése” a válasz."
     },
     {
       "question_id": "10_reading_2",
@@ -251,7 +251,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 0,
-      "explanation": "The toxicity of dark chocolate relates to it containing 'higher doses' of harmful substances like theobromine."
+      "explanation": "Az étcsokoládé toxicitása azzal függ össze, hogy 'magasabb dózisokat' tartalmaz káros anyagokból, mint például a teobromin."
     },
     {
       "question_id": "11_reading_2",
@@ -271,7 +271,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 8,
-      "explanation": "Chocolate containing caffeine can lead to restlessness and 'difficulty breathing' in pets."
+      "explanation": "A koffeint tartalmazó csokoládé nyugtalansághoz és 'légzési nehézségekhez' vezethet háziállatoknál."
     },
     {
       "question_id": "12_reading_2",
@@ -291,7 +291,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 1,
-      "explanation": "Given the uncertainty, vets would 'advise keeping these out of their reach'."
+      "explanation": "A bizonytalanságot figyelembe véve az állatorvosok azt tanácsolnák, hogy 'tartsák ezeket tőlük távol'."
     },
     {
       "question_id": "13_reading_2",
@@ -311,7 +311,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 9,
-      "explanation": "Garlic and onions are known to 'cause stomach problems for your pets'."
+      "explanation": "A fokhagyma és a hagyma köztudottan 'gyomorproblémákat okoz háziállatoknak'."
     },
     {
       "question_id": "14_reading_2",
@@ -331,7 +331,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 6,
-      "explanation": "Cooked bones can splinter and 'break into sharp pieces', harming pet's insides."
+      "explanation": "A főtt csontok szétaprózódhatnak és 'éles darabokra törhetnek', károsítva a háziállat belső szerveit."
     },
     {
       "question_id": "15_reading_2",
@@ -351,7 +351,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 7,
-      "explanation": "The text recommends a new toy or a long walk instead of treats, so 'get your dog an active present'."
+      "explanation": "A szöveg új játékot vagy hosszú sétát javasol a finomságok helyett, így a „kutyájának aktív ajándékot szerezhet” a megfelelő."
     },
     {
       "question_id": "16_reading_2",
@@ -371,7 +371,7 @@
         "L) avoid giving them certain things"
       ],
       "correct_answer_index": 4,
-      "explanation": "To make 'surprises' involving sniffing, you would 'hide your dog's usual biscuits' for them to find."
+      "explanation": "A „meglepetések” szaglászással történő megvalósításához elrejtené a kutyájának szokásos kekszét, hogy megtalálja."
     },
     {
       "question_id": "0_reading_3",
@@ -390,7 +390,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 2,
-      "explanation": "This sentence (C) acts as a general introductory statement for the tips on looking after oneself at university, covering the overall theme of the difficulties one might face."
+      "explanation": "Ez a mondat (C) általános bevezető mondatként szolgál az egyetemi öngondoskodási tippekhez, lefedve az egyetemen tapasztalható lehetséges nehézségek átfogó témáját."
     },
     {
       "question_id": "17_reading_3",
@@ -409,7 +409,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 9,
-      "explanation": "The paragraph encourages communication and support, matching 'Talk to someone you know well and trust' (K)."
+      "explanation": "A bekezdés a kommunikációra és a támogatás elfogadására ösztönöz, ami megegyezik a „Beszéljen valakivel, akit jól ismer és megbízik benne” (K) lehetőséggel."
     },
     {
       "question_id": "18_reading_3",
@@ -428,7 +428,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 8,
-      "explanation": "The paragraph advises researching university support services, aligning with 'Find out what support your uni offers' (I)."
+      "explanation": "A bekezdés az egyetemi támogatási szolgáltatások felkutatását javasolja, összhangban a „Tudja meg, milyen támogatást nyújt az egyeteme” (I) lehetőséggel."
     },
     {
       "question_id": "19_reading_3",
@@ -447,7 +447,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 1,
-      "explanation": "The advice to proactively contact a doctor before needing one points to 'Register at the nearest surgery' (B)."
+      "explanation": "Az a tanács, hogy proaktívan vegye fel a kapcsolatot egy orvossal, még mielőtt szüksége lenne rá, a „Regisztráljon a legközelebbi rendelőnél” (B) pontra utal."
     },
     {
       "question_id": "20_reading_3",
@@ -466,7 +466,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 3,
-      "explanation": "The paragraph focuses on healthy habits like sleep, diet, and exercise, suggesting to 'Stick to a basic routine' (D)."
+      "explanation": "A bekezdés az egészséges szokásokra, mint az alvás, étrend és testmozgás, fókuszál, és azt javasolja, hogy „Tartson be egy alapvető rutint” (D)."
     },
     {
       "question_id": "21_reading_3",
@@ -485,7 +485,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 4,
-      "explanation": "The advice about enjoying fun activities alongside studying suggests the need to 'Find a balance between study and life' (E)."
+      "explanation": "A tanulás mellett a szórakoztató tevékenységek élvezetére vonatkozó tanács az élet és a tanulmányok közötti egyensúly megtalálásának szükségességét sugallja (E)."
     },
     {
       "question_id": "22_reading_3",
@@ -504,7 +504,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 7,
-      "explanation": "Keeping a diary to track feelings is a method to 'Reflect on your emotions' (H)."
+      "explanation": "A naplóvezetés az érzések nyomon követésére az „érzelmeken való elmélkedés” (H) egyik módszere."
     },
     {
       "question_id": "23_reading_3",
@@ -523,7 +523,7 @@
         "K) Talk to someone you know well and trust."
       ],
       "correct_answer_index": 5,
-      "explanation": "The paragraph offers tips on how to socialize and join activities, directly related to 'Try to make new friends' (F)."
+      "explanation": "A bekezdés tippeket ad a szocializációhoz és a tevékenységekhez való csatlakozáshoz, ami közvetlenül kapcsolódik az „Próbáljon meg új barátokat szerezni” (F) lehetőséghez."
     },
     {
       "question_id": "0_reading_4",
@@ -535,7 +535,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 1,
-      "explanation": "The text states his 'partners died', indicating the marriage ended due to death, not divorce. So, it's false."
+      "explanation": "A szöveg szerint „partnerük meghalt”, ami azt jelzi, hogy a házasság halál miatt ért véget, nem válás miatt. Ezért hamis."
     },
     {
       "question_id": "24_reading_4",
@@ -547,7 +547,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 2,
-      "explanation": "The text does not provide information about where they lived before moving to Philadelphia, only that they both moved to the same retirement home there. Therefore, the text does not say."
+      "explanation": "A szöveg nem ad információt arról, hol éltek Philadelphiába költözésük előtt, csak arról, hogy mindketten ugyanabba a nyugdíjas otthonba költöztek oda. Ezért a szöveg nem állít ilyet."
     },
     {
       "question_id": "25_reading_4",
@@ -559,7 +559,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 1,
-      "explanation": "The text explicitly states they 'didn't meet each other then' despite attending the same university at the same time. So, this statement is false."
+      "explanation": "A szöveg kifejezetten kimondja, hogy „akkor nem találkoztak egymással”, annak ellenére, hogy ugyanabban az időben jártak egyetemre. Ezért ez az állítás hamis."
     },
     {
       "question_id": "26_reading_4",
@@ -571,7 +571,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 2,
-      "explanation": "The text mentions they met at a costume party at the retirement home, but it does not specify if their first date took place inside or outside the facility. Therefore, the text does not say."
+      "explanation": "A szöveg megemlíti, hogy egy jelmezbálon találkoztak a nyugdíjas otthonban, de nem pontosítja, hogy az első randevújuk az intézményen belül vagy kívül történt. Ezért a szöveg nem állít ilyet."
     },
     {
       "question_id": "27_reading_4",
@@ -583,7 +583,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 0,
-      "explanation": "The text explicitly states: 'His family was happy that he'd found someone he fell in love with.' This statement is true."
+      "explanation": "A szöveg kifejezetten kijelenti: „A családja örült, hogy talált valakit, akibe beleszeretett.” Ez az állítás igaz."
     },
     {
       "question_id": "28_reading_4",
@@ -595,7 +595,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 0,
-      "explanation": "The text says: 'Although the couple dated for nine years, the family never thought that the two might want to get married.' This indicates the decision was surprising, so the statement is true."
+      "explanation": "A szöveg szerint: „Bár a pár kilenc évig randevúzott, a család sosem gondolta volna, hogy össze akarnak házasodni.” Ez azt jelzi, hogy a döntés meglepő volt, így az állítás igaz."
     },
     {
       "question_id": "29_reading_4",
@@ -607,7 +607,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 2,
-      "explanation": "The text details Mr. Littman's family (children, grandchildren, great-grandchildren) at the wedding, but it gives no information about Ms. Fiterman's family, thus the text does not say."
+      "explanation": "A szöveg részletezi Mr. Littman családját (gyerekek, unokák, dédunokák) az esküvőn, de nem ad információt Ms. Fiterman családjáról, így a szöveg nem állít ilyet."
     },
     {
       "question_id": "30_reading_4",
@@ -619,7 +619,7 @@
         "C) THE TEXT DOES NOT SAY"
       ],
       "correct_answer_index": 1,
-      "explanation": "The text states they 'became the world's oldest married couple, with a combined age of over 202 years.' The record is for the combined age, not for Mr. Littman being the oldest man ever to get married. So, it's false."
+      "explanation": "A szöveg szerint ők lettek „a világ legidősebb házaspárja, kombinált életkoruk meghaladja a 202 évet”. A rekord a kombinált életkorra vonatkozik, nem arra, hogy Mr. Littman volt a valaha házasodó legidősebb férfi. Ezért hamis."
     },
     {
       "question_id": "0_language_use_2",
@@ -632,7 +632,7 @@
         "D) few"
       ],
       "correct_answer_index": 2,
-      "explanation": "'Many' is the most appropriate quantifier to describe a general large number of people."
+      "explanation": "A „many” (sok) a legmegfelelőbb mennyiségjelző, ha nagyszámú emberről beszélünk."
     },
     {
       "question_id": "10_language_use_2",
@@ -645,7 +645,7 @@
         "D) how"
       ],
       "correct_answer_index": 1,
-      "explanation": "The clause introduces a condition or assumption: 'particularly if they've grown up using laptops'."
+      "explanation": "A mondatrész egy feltételt vagy feltételezést vezet be: „különösen, ha laptopokon nőttek fel”."
     },
     {
       "question_id": "11_language_use_2",
@@ -658,7 +658,7 @@
         "D) that"
       ],
       "correct_answer_index": 0,
-      "explanation": "'Which' introduces a non-defining relative clause, referring back to the previous statement about the skill being useful for taking notes quickly and easily."
+      "explanation": "A „which” egy nem-korlátozó vonatkozó mellékmondatot vezet be, visszautalva az előző állításra, miszerint a képesség hasznos a gyors és egyszerű jegyzetkészítéshez."
     },
     {
       "question_id": "12_language_use_2",
@@ -671,7 +671,7 @@
         "D) choice but"
       ],
       "correct_answer_index": 3,
-      "explanation": "The idiom 'had no choice but to concentrate' implies that the slower speed of writing forced them to process information more deeply, fitting the context 'no X to concentrate...'."
+      "explanation": "A „had no choice but to concentrate” (nem volt más választásuk, mint koncentrálni) kifejezés arra utal, hogy az írás lassabb tempója arra kényszerítette őket, hogy alaposabban dolgozzák fel az információkat, illeszkedve a „no X to concentrate…” (nem volt X a koncentrációra) kontextushoz."
     },
     {
       "question_id": "13_language_use_2",
@@ -684,7 +684,7 @@
         "D) all of them"
       ],
       "correct_answer_index": 2,
-      "explanation": "In English, a reduced clause (participial clause) like 'When asked to explain...' often omits the subject ('they were asked'), so a dash indicates no additional word is needed, representing this implicit construction."
+      "explanation": "Angolul egy redukált mellékmondat (participial clause), mint a „When asked to explain…” (amikor megkérdezték tőle, hogy magyarázza el…), gyakran elhagyja az alanyt (pl. „they were asked” – megkérdezték őket), így egy kötőjel jelzi, hogy nincs szükség további szóra, ami ezt az implicit szerkezetet reprezentálja."
     },
     {
       "question_id": "14_language_use_2",
@@ -697,7 +697,7 @@
         "D) have been"
       ],
       "correct_answer_index": 1,
-      "explanation": "This forms a passive construction: 'the students were allowed to revise'."
+      "explanation": "Ez passzív szerkezetet alkot: „the students were allowed to revise” (a diákoknak engedélyezték, hogy ismételjenek)."
     },
     {
       "question_id": "15_language_use_2",
@@ -710,7 +710,7 @@
         "D) for which"
       ],
       "correct_answer_index": 2,
-      "explanation": "The phrase 'The reason is that...' is a standard way to introduce an explanation."
+      "explanation": "Az „The reason is that…” (Az ok az, hogy…) kifejezés egy bevett módja egy magyarázat bevezetésének."
     },
     {
       "question_id": "16_language_use_2",
@@ -723,7 +723,7 @@
         "D) in case"
       ],
       "correct_answer_index": 1,
-      "explanation": "'Because' introduces the reason for processing information more deeply: the inability to write everything down."
+      "explanation": "A „Because” (mivel) vezeti be az információ alaposabb feldolgozásának okát: azt, hogy nem lehet mindent leírni."
     }
   ]
 }
