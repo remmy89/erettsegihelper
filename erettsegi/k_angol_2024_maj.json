@@ -1,60 +1,729 @@
 {
-  "exam_id": "k_angol_2024_maj",
+  "exam_id": "k_angol_2025_maj",
   "subject": "Angol",
-  "level": "Középszint",
-  "year": "2024 május",
+  "level": "Középszinű",
+  "year": "2025 május",
   "tasks": [
     {
-      "question_id": "1",
+      "question_id": "0_reading_1",
       "type": "multiple_choice",
-      "question_text": "Complete the sentence: 'She ________ to the gym every day.'",
+      "question_text": "Read the following answers from the website of a driving school. Your task is to match the question (A-M) to the appropriate answer. For 0): \"Yes, you must be at least 17 years old to start learning to drive a car.\"",
       "options": [
-        "go",
-        "goes",
-        "going",
-        "gone"
-      ],
-      "correct_answer_index": 1,
-      "explanation": "For third-person singular (she, he, it) in the present simple tense, we add -es to verbs ending in -o."
-    },
-    {
-      "question_id": "2",
-      "type": "multiple_choice",
-      "question_text": "What is the past tense of 'eat'?",
-      "options": [
-        "eaten",
-        "ate",
-        "eat",
-        "eating"
-      ],
-      "correct_answer_index": 1,
-      "explanation": "'Ate' is the simple past tense of the irregular verb 'to eat'."
-    },
-    {
-      "question_id": "3",
-      "type": "multiple_choice",
-      "question_text": "Which of these is a modal verb?",
-      "options": [
-        "runs",
-        "sang",
-        "can",
-        "walked"
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 2,
-      "explanation": "'Can' is a modal verb, used to express ability or permission. The others are regular verbs in different tenses."
+      "explanation": "The answer about being 17 years old directly corresponds to a question about age restrictions for learning to drive (C)."
     },
     {
-      "question_id": "4",
+      "question_id": "1_reading_1",
       "type": "multiple_choice",
-      "question_text": "Identify the adjective in the following sentence: 'The red car is fast.'",
+      "question_text": "Answer 1): \"On average, one needs between 20 and 40 hours of professional instruction to become test ready, but every learner is different. Some may need more, while others may need fewer lessons.\"",
       "options": [
-        "The",
-        "red",
-        "car",
-        "is"
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 5,
+      "explanation": "This answer details the number of hours of instruction required, matching 'How many lessons will it take...'"
+    },
+    {
+      "question_id": "2_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 2): \"It is possible but it depends on your instructor. Certain driving instructors only teach in their own cars, which are fitted with dual controls: a set of extra pedals on the passenger's side, allowing the instructor to assist in emergencies.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 7,
+      "explanation": "The answer addresses the possibility of learning in one's own car, and mentions dual controls."
+    },
+    {
+      "question_id": "3_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 3): \"Driving lessons during the daytime are the best choice because more instructors are available and there's better visibility than in the evenings.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "The answer provides reasons for choosing daytime lessons, addressing 'What's the best time of day...'"
+    },
+    {
+      "question_id": "4_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 4): \"Yes, as long as the requested location is within our working area, and provided this is arranged with your instructor well before your lesson.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 6,
+      "explanation": "The answer states the conditions for being picked up and dropped off at a specific location, matching 'Can I be picked up and dropped off anywhere?'"
+    },
+    {
+      "question_id": "5_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 5): \"It's recommended to take at least one or two lessons per week to maintain progress and remember information.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 11,
+      "explanation": "This recommendation on the frequency of lessons aligns with 'How often should I take driving lessons?'"
+    },
+    {
+      "question_id": "6_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 6): \"Certainly. You can view our instructors' profiles on our website including a short bio about them and a picture of the car you'll learn to drive in.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 10,
+      "explanation": "The answer explains how one can choose an instructor by viewing their profiles."
+    },
+    {
+      "question_id": "7_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 7): \"Take note of the examiner's feedback and discuss it with your instructor. Focus on practising the areas where you need to improve before retaking the test.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
       ],
       "correct_answer_index": 1,
-      "explanation": "'Red' describes the noun 'car', making it an adjective."
+      "explanation": "The advice is given for someone who has failed their driving test."
+    },
+    {
+      "question_id": "8_reading_1",
+      "type": "multiple_choice",
+      "question_text": "Answer 8): \"They are signs that must be displayed on the front and back of a vehicle when a learner driver is behind the wheel. They indicate that the driver is still learning.\"",
+      "options": [
+        "A) What if I need to cancel my lesson?",
+        "B) What should I do if I fail my driving test?",
+        "C) Are there any age restrictions for learning to drive?",
+        "D) What's the best time of day to take my lessons?",
+        "E) Can I change my driving test appointment?",
+        "F) How many lessons will it take for me to learn to drive?",
+        "G) Can I be picked up and dropped off anywhere?",
+        "H) Can I learn to drive in my own car?",
+        "I) How can I book a driving test?",
+        "K) What are L-plates?",
+        "L) Can I choose my instructor?",
+        "M) How often should I take driving lessons?"
+      ],
+      "correct_answer_index": 9,
+      "explanation": "The description perfectly defines L-plates."
+    },
+    {
+      "question_id": "0_reading_2",
+      "type": "multiple_choice",
+      "question_text": "Many popular foods that people eat at Christmas are unsafe for dogs and shouldn't (0) _______________.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The example directly refers to the action of feeding dogs, thus 'shouldn't be fed to them'."
+    },
+    {
+      "question_id": "9_reading_2",
+      "type": "multiple_choice",
+      "question_text": "...so we need to be careful to (9) _______________ what should be avoided...",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 10,
+      "explanation": "The sentence indicates a need to be cautious about 'what should be avoided', implying 'avoiding certain things'."
+    },
+    {
+      "question_id": "10_reading_2",
+      "type": "multiple_choice",
+      "question_text": "Dark chocolate (10) _______________ and is regarded as more toxic.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The toxicity of dark chocolate relates to it containing 'higher doses' of harmful substances like theobromine."
+    },
+    {
+      "question_id": "11_reading_2",
+      "type": "multiple_choice",
+      "question_text": "...causes pets to become restless and (11) _______________.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 8,
+      "explanation": "Chocolate containing caffeine can lead to restlessness and 'difficulty breathing' in pets."
+    },
+    {
+      "question_id": "12_reading_2",
+      "type": "multiple_choice",
+      "question_text": "...It's not known what effect they have on cats, but vets (12) _______________.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Given the uncertainty, vets would 'advise keeping these out of their reach'."
+    },
+    {
+      "question_id": "13_reading_2",
+      "type": "multiple_choice",
+      "question_text": "Raw garlic and onions can (13) _______________ if they eat them in large quantities.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 9,
+      "explanation": "Garlic and onions are known to 'cause stomach problems for your pets'."
+    },
+    {
+      "question_id": "14_reading_2",
+      "type": "multiple_choice",
+      "question_text": "Cooked bones aren't suitable for your cat or dog as they can (14) _______________ which might cause damage to their insides.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 6,
+      "explanation": "Cooked bones can splinter and 'break into sharp pieces', harming pet's insides."
+    },
+    {
+      "question_id": "15_reading_2",
+      "type": "multiple_choice",
+      "question_text": "Experts suggest that rather than always looking for foodie treats, you should (15) _______________.",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 7,
+      "explanation": "The text recommends a new toy or a long walk instead of treats, so 'get your dog an active present'."
+    },
+    {
+      "question_id": "16_reading_2",
+      "type": "multiple_choice",
+      "question_text": "If you want to have some surprises, just (16) _______________ in leftover boxes and let them sniff them out!",
+      "options": [
+        "A) contains higher doses",
+        "B) advise keeping these out of their reach",
+        "C) be fed to them",
+        "D) be given any alcohol",
+        "E) hide your dog's usual biscuits",
+        "F) be taken to the vet immediately",
+        "G) break into sharp pieces",
+        "H) get your dog an active present",
+        "I) have difficulty breathing",
+        "K) cause stomach problems for your pets",
+        "L) avoid giving them certain things"
+      ],
+      "correct_answer_index": 4,
+      "explanation": "To make 'surprises' involving sniffing, you would 'hide your dog's usual biscuits' for them to find."
+    },
+    {
+      "question_id": "0_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Match the following opening sentences (A-K) to the correct paragraphs. For 0): \"It's scary being away from home in a new place with people you don't know well yet. Or maybe your course is super challenging. These tips can help you look after your mental health.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "This sentence (C) acts as a general introductory statement for the tips on looking after oneself at university, covering the overall theme of the difficulties one might face."
+    },
+    {
+      "question_id": "17_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 17): \"It's important not to struggle in silence. Opening up can be difficult but remember you're not alone. Schedule regular chats with family or friends back home.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 9,
+      "explanation": "The paragraph encourages communication and support, matching 'Talk to someone you know well and trust' (K)."
+    },
+    {
+      "question_id": "18_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 18): \"Most universities have helplines and counselling services. Search on the website to find out what is available at your university.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 8,
+      "explanation": "The paragraph advises researching university support services, aligning with 'Find out what support your uni offers' (I)."
+    },
+    {
+      "question_id": "19_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 19): \"Even if you don't need a doctor right now, it's a good idea to contact one so you can get help when you need it.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The advice to proactively contact a doctor before needing one points to 'Register at the nearest surgery' (B)."
+    },
+    {
+      "question_id": "20_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 20): \"This is especially important when everything is changing. Try to sleep enough, eat a balanced diet, and exercise when you can. These small things make a big difference to your mental health.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 3,
+      "explanation": "The paragraph focuses on healthy habits like sleep, diet, and exercise, suggesting to 'Stick to a basic routine' (D)."
+    },
+    {
+      "question_id": "21_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 21): \"Take breaks away from your desk, when you do something fun. Uni is about enjoying yourself as well as studying.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 4,
+      "explanation": "The advice about enjoying fun activities alongside studying suggests the need to 'Find a balance between study and life' (E)."
+    },
+    {
+      "question_id": "22_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 22): \"If writing is your thing, keeping a diary will be helpful to track how you're feeling.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 7,
+      "explanation": "Keeping a diary to track feelings is a method to 'Reflect on your emotions' (H)."
+    },
+    {
+      "question_id": "23_reading_3",
+      "type": "multiple_choice",
+      "question_text": "Paragraph 23): \"It's normal to find it hard to socialize at first but keep trying. Try setting up fun activities with your housemates like game nights or watching a show together. You could also join a society to meet people.\"",
+      "options": [
+        "A) Create a budget.",
+        "B) Register at the nearest surgery.",
+        "C) When you're starting uni, looking after yourself can be tough.",
+        "D) Stick to a basic routine.",
+        "E) Find a balance between study and life.",
+        "F) Try to make new friends.",
+        "G) Plan activities that don't involve spending money.",
+        "H) Reflect on your emotions.",
+        "I) Find out what support your uni offers.",
+        "K) Talk to someone you know well and trust."
+      ],
+      "correct_answer_index": 5,
+      "explanation": "The paragraph offers tips on how to socialize and join activities, directly related to 'Try to make new friends' (F)."
+    },
+    {
+      "question_id": "0_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 0): Mr. Littman's first marriage ended with a divorce.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The text states his 'partners died', indicating the marriage ended due to death, not divorce. So, it's false."
+    },
+    {
+      "question_id": "24_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 24): Ms. Fiterman and Mr. Littman had lived in different states before they moved to the retirement home in Philadelphia.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The text does not provide information about where they lived before moving to Philadelphia, only that they both moved to the same retirement home there. Therefore, the text does not say."
+    },
+    {
+      "question_id": "25_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 25): Ms. Fiterman and Mr. Littman remembered being in touch during their university years.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The text explicitly states they 'didn't meet each other then' despite attending the same university at the same time. So, this statement is false."
+    },
+    {
+      "question_id": "26_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 26): The couple had their first date outside the retirement home.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The text mentions they met at a costume party at the retirement home, but it does not specify if their first date took place inside or outside the facility. Therefore, the text does not say."
+    },
+    {
+      "question_id": "27_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 27): Mr. Littman's family were pleased to find out about the old man's relationship.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The text explicitly states: 'His family was happy that he'd found someone he fell in love with.' This statement is true."
+    },
+    {
+      "question_id": "28_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 28): Mr. Littman's decision to get married surprised his family.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "The text says: 'Although the couple dated for nine years, the family never thought that the two might want to get married.' This indicates the decision was surprising, so the statement is true."
+    },
+    {
+      "question_id": "29_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 29): Mr. Littman had more children than Ms. Fiterman.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The text details Mr. Littman's family (children, grandchildren, great-grandchildren) at the wedding, but it gives no information about Ms. Fiterman's family, thus the text does not say."
+    },
+    {
+      "question_id": "30_reading_4",
+      "type": "multiple_choice",
+      "question_text": "Statement 30): The couple were awarded the Guinness world record because Mr. Littman was the oldest man ever to get married.",
+      "options": [
+        "A) TRUE",
+        "B) FALSE",
+        "C) THE TEXT DOES NOT SAY"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The text states they 'became the world's oldest married couple, with a combined age of over 202 years.' The record is for the combined age, not for Mr. Littman being the oldest man ever to get married. So, it's false."
+    },
+    {
+      "question_id": "0_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "These days (0) _______________ people can type faster than they can write by hand...",
+      "options": [
+        "A) plenty",
+        "B) lot of",
+        "C) many",
+        "D) few"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "'Many' is the most appropriate quantifier to describe a general large number of people."
+    },
+    {
+      "question_id": "10_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "...particularly (10) _______________ they've grown up using laptops.",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) then",
+        "D) how"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "The clause introduces a condition or assumption: 'particularly if they've grown up using laptops'."
+    },
+    {
+      "question_id": "11_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "...useful skill and allows you to take notes quickly and easily, (11) _______________ must certainly be a good thing.",
+      "options": [
+        "A) which",
+        "B) it",
+        "C) what",
+        "D) that"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "'Which' introduces a non-defining relative clause, referring back to the previous statement about the skill being useful for taking notes quickly and easily."
+    },
+    {
+      "question_id": "12_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "...by hand had no (12) _______________ to concentrate on the information to allow them to summarise.",
+      "options": [
+        "A) more chance",
+        "B) difficulty in",
+        "C) possibility",
+        "D) choice but"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "The idiom 'had no choice but to concentrate' implies that the slower speed of writing forced them to process information more deeply, fitting the context 'no X to concentrate...'."
+    },
+    {
+      "question_id": "13_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "but when (13) _______________ asked to explain the concepts covered in the lecture...",
+      "options": [
+        "A) it was",
+        "B) the teacher",
+        "C) -",
+        "D) all of them"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "In English, a reduced clause (participial clause) like 'When asked to explain...' often omits the subject ('they were asked'), so a dash indicates no additional word is needed, representing this implicit construction."
+    },
+    {
+      "question_id": "14_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "When the students (14) _______________ allowed to revise from their notes before being tested a week later...",
+      "options": [
+        "A) had",
+        "B) were",
+        "C) would be",
+        "D) have been"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "This forms a passive construction: 'the students were allowed to revise'."
+    },
+    {
+      "question_id": "15_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "The reason (15) _______________ when using a pen and paper, you process the information more deeply...",
+      "options": [
+        "A) why is",
+        "B) for that",
+        "C) is that",
+        "D) for which"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "The phrase 'The reason is that...' is a standard way to introduce an explanation."
+    },
+    {
+      "question_id": "16_language_use_2",
+      "type": "multiple_choice",
+      "question_text": "...you process the information more deeply (16) _______________ you can't possibly write it all down.",
+      "options": [
+        "A) while",
+        "B) because",
+        "C) however,",
+        "D) in case"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "'Because' introduces the reason for processing information more deeply: the inability to write everything down."
     }
   ]
 }
