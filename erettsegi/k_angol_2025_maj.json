@@ -1,267 +1,70 @@
 {
-  "exam_id": "k_angol_2025_maj",
-  "subject": "Angol",
-  "level": "Középszintű",
-  "year": "2025 május",
-  "reading_passages": {
-    "task_1_driving_school_answers": "FREQUENTLY ASKED QUESTIONS\nHere are answers to common questions we get.\n0) Yes, you must be at least 17 years old to start learning to drive a car.\n1) On average, one needs between 20 and 40 hours of professional instruction to become test ready, but every learner is different. Some may need more, while others may need fewer lessons.\n2) It is possible but it depends on your instructor. Certain driving instructors only teach in their own cars, which are fitted with dual controls: a set of extra pedals on the passenger's side, allowing the instructor to assist in emergencies.\n3) Driving lessons during the daytime are the best choice because more instructors are available and there's better visibility than in the evenings.\n4) Yes, as long as the requested location is within our working area, and provided this is arranged with your instructor well before your lesson.\n5) It's recommended to take at least one or two lessons per week to maintain progress and remember information.\n6) Certainly. You can view our instructors' profiles on our website including a short bio about them and a picture of the car you'll learn to drive in.\n7) Take note of the examiner's feedback and discuss it with your instructor. Focus on practising the areas where you need to improve before retaking the test.\n8) They are signs that must be displayed on the front and back of a vehicle when a learner driver is behind the wheel. They indicate that the driver is still learning.",
-    "task_2_dog_christmas": "WHAT YOU SHOULDN'T BE FEEDING YOUR DOG AT CHRISTMAS\nMany popular foods that people eat at Christmas are unsafe for dogs and shouldn't be fed to them. Cats and dogs have different digestive systems to us humans. Things we can digest, they might struggle to, so we need to be careful to avoid giving them certain things. So, what should be avoided and how can you make the holiday season special for your pets?\nChocolate contains theobromine, which is toxic to cats and dogs and causes stomach pain, vomiting, or heart problems. Dark chocolate contains higher doses and is regarded as more toxic. Chocolate also contains caffeine, which causes pets to become restless and have difficulty breathing.\nMince pies might be one of the most common festive treats, but they contain raisins, which are highly toxic to dogs. Your dog may develop severe symptoms soon after eating them. It's not known what effect they have on cats, but vets advise keeping these out of their reach.\nRaw garlic and onions can cause stomach problems for your pets if they eat them in large quantities. Best to keep these on your plate so you don't cause any upset tummies.\nIf you're having turkey or chicken for dinner this Christmas, chances are there'll be some bones around. Don't give these to your pets though! Cooked bones aren't suitable for your cat or dog as they can break into sharp pieces which might cause damage to their insides.\nExperts suggest that rather than always looking for foodie treats, you should get your dog an active present. They recommend a nice new toy or a lovely long walk. If you want to have some surprises, just hide your dog's usual biscuits in leftover boxes and let them sniff them out!",
-    "task_3_uni_tips": "TIPS FOR LOOKING AFTER YOURSELF AT UNIVERSITY\nWhen you're starting uni, looking after yourself can be tough. It's scary being away from home in a new place with people you don't know well yet. Or maybe your course is super challenging. These tips can help you look after your mental health.\nTalk to someone you know well and trust. It's important not to struggle in silence. Opening up can be difficult but remember you're not alone. Schedule regular chats with family or friends back home.\nFind out what support your uni offers. Most universities have helplines and counselling services. Search on the website to find out what is available at your university.\nRegister at the nearest surgery. Even if you don't need a doctor right now, it's a good idea to contact one so you can get help when you need it.\nStick to a basic routine. This is especially important when everything is changing. Try to sleep enough, eat a balanced diet, and exercise when you can. These small things make a big difference to your mental health.\nFind a balance between study and life. Take breaks away from your desk, when you do something fun. Uni is about enjoying yourself as well as studying.\nReflect on your emotions. If writing is your thing, keeping a diary will be helpful to track how you're feeling.\nTry to make new friends. It's normal to find it hard to socialize at first but keep trying. Try setting up fun activities with your housemates like game nights or watching a show together. You could also join a society to meet people.",
-    "task_4_oldest_couple": "When Marjorie Fiterman and Bernie Littman met in their 90s, they had already lived long, full lives and neither of them thought they'd fall in love or end up married again. But last May, the two became the world's oldest married couple, with a combined age of over 202 years.\nMs. Fiterman is 102 years old, and Mr. Littman is 100. He was an engineer, and she was a teacher. Each of them had spent more than 60 years in their first marriages, but after their partners died, they both moved to the same retirement home in Philadelphia. They met at a costume party and quickly became friends because they had several things in common. They both liked acting in plays at the retirement home, enjoyed sharing meals together and they'd both attended the University of Pennsylvania at the same time, though they didn't meet each other then.\nMr. Littman will always have an easy way to remember when they had their first date – it was the same day that one of his great-granddaughters was born. His family was happy that he'd found someone he fell in love with. Although the couple dated for nine years, the family never thought that the two might want to get married.\nThe wedding ceremony took place at the retirement home where they live. Three generations of Mr. Littman's family were there with the couple: his children, grandchildren and great-grandchildren. On the day they got married, the couple's ages added up to 202 years and 271 days. That broke the Guinness world record for the oldest couple to get married.\nThey say their secret is that they keep each other young."
-  },
-  "listening_transcripts": {
-    "task_1_greeter": "67-year old Charles was a retired soldier. He was also a new employee at the local supermarket, a so-called retiree-greeter, whose job was to wait at the front door of the store and greet all shoppers who entered. He really enjoyed his new job, but there was one big problem: he had to get up extremely early in the morning, at 5 o'clock, because his day shift started at 6:30, and he just couldn't seem to get to work on time. Every day he was 5, 10, 15 minutes late.\nBut in many important respects, Charles was an outstandingly good worker, really kind and tidy, intelligent, good-looking and obviously demonstrating the store's customer friendly policies. One day, when he was late again, the boss decided to call him into his office for a talk.\n\"Charles, I like your work ethic and professionalism, you really do a great job when you finally get here, but your being late so often is quite annoying and irritating.\"\n\"Yes sir, I know, and I am working on it.\"\n\"Well, good, you are a team player. That's what I like to hear.\"\n\"Yes sir, I understand your concern, and I'll try harder.\"\nA bit surprised, the manager went on to comment,\n\"It's odd though, you coming in late. I know you're retired from the Armed Forces. What did they say to you there if you showed up in the morning so late and so often?\"\nThe old man looked down at the floor, chuckled, and said with a polite smile on his face,\n\"Well, quite honestly, they usually just saluted and said: 'Good morning General, can I get your coffee, sir?'",
-    "task_2_porsche": "A 17-year-old boy, who worked part-time at a fast food restaurant, drove up to park in front of the house in a beautiful Porsche.\nNaturally, his parents knew that there was no way he earned enough with his after-school job to buy such a car.\n\"Where did you get that car?” his mom and dad screamed in shock.\n\"I bought it today,” replied the teen calmly.\n“With what money young man?” his mom demanded. “We know how much a Porsche costs and you cannot afford it!\"\n\"Well, it's used and I got a good deal,” said the boy, “This one cost me 20 dollars.\"\n\"Who on earth would sell a car like that for 20 dollars?!\"\n\"The woman up the street,\" the boy replied. “I don't know her name she's just moved in. She ordered a pizza and when I delivered it to her, she asked me if I wanted to buy a Porsche for 20 dollars.\"\nThe boy's dad and mom hurried over to their new neighbor's house, ready to demand an explanation. Curiously, their new neighbor was calmly planting flowers in her front yard.\n\"I'm the father of the kid you just sold a sports car to for $20,” the dad said. “I simply don't understand how that is possible!\"\n“Well,” the woman said, not looking up from her garden. “This morning I got a phone call from my husband. I thought he was on a business trip in Florida, but he has run off to Hawaii with his secretary and doesn't intend to come back.\"\n\"What on earth does that have to do with selling our son a Porsche for $20?”, the boy's mom asked, completely confused.\nThe new neighbor paused for a minute and then, with a big smile on her face, she said: “Well, my husband asked me to sell his new Porsche and send him the money. So I did.”",
-    "task_3_teacher": "A young man meets an elderly man on the underground and he goes up to him:\n\"Do you remember me, Mr Jones?”\n\"Sorry, young man, but I don't.\"\n“Well, my name is Redgrave, Peter Redgrave, and I was a student of yours exactly 20 years ago.\"\n\"Really? I'm sorry Peter, but I'm sure you know how it is. I've had thousands of students and you were my student such a long time ago. But tell me: What do you do, what do you do in life?\"\n\"Well, I became a teacher.\"\n“Ah, how good, like me?\"\n\"Well, yes. In fact, I became a teacher because you inspired me to be like you.\n“Oh, how interesting! And at what time did you decide to become a teacher?”\n“It's a long story, you know. Actually, it all happened back then when I was your student.”\n\"Really? And what's the story?”\n\"Well, one day a friend of mine, also a student, came to school with a nice new watch, and I decided I wanted it, so ... well, I stole it, I took it out of his pocket. And shortly after, my friend noticed that his watch was missing and immediately complained to our teacher, who happened to be you. And then you addressed the class saying, ‘This student's watch was stolen during classes today. Whoever stole it, please return it.' But I kept quiet and didn't give it back because I didn't want to.\"\n\"What happened then?\"\n\"You closed the door and told us all to stand up and form a circle. You told us you were going to search our pockets one by one until the watch was found. However, you told us to close our eyes, because you would only look for the guy's watch if we all had our eyes closed. Then you went from pocket to pocket, and when you went through my pockets, you found the watch and took it. You kept searching everyone's pockets, and when you were done you said 'you can open your eyes now. We have the watch.\"\n\"And what did I do then?\"\n“Well, you didn't tell on me and you never mentioned the episode. You never said who stole the watch either. That day you saved my dignity forever. It was the most shameful day of my life. But it was also the day I decided not to become a thief, a bad person. But I received your message clearly. Do you remember this episode, Mr Jones?”\n\"Yes, I do remember the situation with the stolen watch which I was looking for in everyone's pocket. But I didn't remember you, because I also closed my eyes while looking.”\n\"Well, Mr. Jones, now you know why I decided to become a teacher later. You were a lifesaver and I can't thank you enough for your kindness and understanding.\""
-  },
-  "tasks": [
+  "tantargy": "angol",
+  "szint": "közép",
+  "kiadas_datuma": "2024maj",
+  "feladatok": [
     {
-      "section_id": "reading_task_1",
-      "type": "matching_qa",
-      "task_description": "Read the following answers from the website of a driving school. Your task is to match the question (A-M) to the appropriate answer. For 0): 'Yes, you must be at least 17 years old to start learning to drive a car.'",
-      "context_reference": "reading_passages.task_1_driving_school_answers",
-      "options": [
-        {"letter": "A", "text": "What if I need to cancel my lesson?"},
-        {"letter": "B", "text": "What should I do if I fail my driving test?"},
-        {"letter": "C", "text": "Are there any age restrictions for learning to drive?"},
-        {"letter": "D", "text": "What's the best time of day to take my lessons?"},
-        {"letter": "E", "text": "Can I change my driving test appointment?"},
-        {"letter": "F", "text": "How many lessons will it take for me to learn to drive?"},
-        {"letter": "G", "text": "Can I be picked up and dropped off anywhere?"},
-        {"letter": "H", "text": "Can I learn to drive in my own car?"},
-        {"letter": "I", "text": "How can I book a driving test?"},
-        {"letter": "K", "text": "What are L-plates?"},
-        {"letter": "L", "text": "Can I choose my instructor?"},
-        {"letter": "M", "text": "How often should I take driving lessons?"}
-      ],
-      "items": [
-        { "number": 0, "text_begins": "Yes, you must be at least 17 years old..." },
-        { "number": 1, "text_begins": "On average, one needs between 20 and 40 hours..." },
-        { "number": 2, "text_begins": "It is possible but it depends on your instructor..." },
-        { "number": 3, "text_begins": "Driving lessons during the daytime are the best choice..." },
-        { "number": 4, "text_begins": "Yes, as long as the requested location is within our working area..." },
-        { "number": 5, "text_begins": "It's recommended to take at least one or two lessons per week..." },
-        { "number": 6, "text_begins": "Certainly. You can view our instructors' profiles..." },
-        { "number": 7, "text_begins": "Take note of the examiner's feedback and discuss it..." },
-        { "number": 8, "text_begins": "They are signs that must be displayed..." }
-      ],
-      "correct_answers": {
-        "0": { "option_letter": "C", "explanation": "The answer 'Yes, you must be at least 17 years old to start learning to drive a car' directly addresses age restrictions for learning to drive." },
-        "1": { "option_letter": "F", "explanation": "The answer about needing 'between 20 and 40 hours of professional instruction' is relevant to 'How many lessons will it take...'. No points if more than two words." },
-        "2": { "option_letter": "H", "explanation": "The answer discussing 'your own cars, which are fitted with dual controls' addresses whether one can 'learn to drive in my own car'." },
-        "3": { "option_letter": "D", "explanation": "The answer stating 'Driving lessons during the daytime are the best choice' explains 'What's the best time of day to take my lessons?'" },
-        "4": { "option_letter": "G", "explanation": "The answer about being 'picked up and dropped off anywhere' matches 'Can I be picked up and dropped off anywhere?'" },
-        "5": { "option_letter": "M", "explanation": "The answer recommending 'to take at least one or two lessons per week' corresponds to 'How often should I take driving lessons?'" },
-        "6": { "option_letter": "L", "explanation": "The answer 'You can view our instructors’ profiles...' fits 'Can I choose my instructor?'" },
-        "7": { "option_letter": "B", "explanation": "The advice to 'Take note of the examiner’s feedback and discuss it...' relates to 'What should I do if I fail my driving test?'" },
-        "8": { "option_letter": "K", "explanation": "The answer describing 'signs that must be displayed...when a learner driver is behind the wheel' explains 'What are L-plates?'" }
-      }
+      "feladat_id": "reading_comprehension",
+      "cim": "1. feladat - Olvasott szöveg értése",
+      "tipus": "feleletvalasztos",
+      "instrukciok": "Olvassa el figyelmesen az alábbi szöveget, majd válassza ki a négy lehetőség közül a kérdésekre adott helyes választ.",
+      "kerdesek": [
+        {
+          "id": "AK_2024MAJ_RC_01",
+          "kerdes": "What is the primary goal of the new city park project?",
+          "valaszok": [
+            "To build a new shopping mall.",
+            "To create more space for wildlife.",
+            "To provide a recreational area for residents.",
+            "To construct a new highway."
+          ],
+          "helyes_valasz_index": 2
+        },
+        {
+          "id": "AK_2024MAJ_RC_02",
+          "kerdes": "The article suggests that the park will be funded by...",
+          "valaszok": [
+            "private donations.",
+            "the national government.",
+            "a mix of city funds and local business sponsorships.",
+            "international investors."
+          ],
+          "helyes_valasz_index": 2
+        }
+      ]
     },
     {
-      "section_id": "reading_task_2",
-      "type": "multiple_choice_gap_fill",
-      "task_description": "Complete the text by choosing the most appropriate answer from the options for each gap. Example (0): 'Many popular foods that people eat at Christmas are unsafe for dogs and shouldn't (0) be fed to them.'",
-      "context_reference": "reading_passages.task_2_dog_christmas",
-      "gaps": [
-        { "number": 0, "before_gap": "shouldn't (0)", "after_gap": "." },
-        { "number": 9, "before_gap": "careful to (9)", "after_gap": "." },
-        { "number": 10, "before_gap": "Dark chocolate (10)", "after_gap": " and is regarded as more toxic." },
-        { "number": 11, "before_gap": "restless and (11)", "after_gap": "." },
-        { "number": 12, "before_gap": "vets (12)", "after_gap": "." },
-        { "number": 13, "before_gap": "can (13)", "after_gap": " if they eat them in large quantities." },
-        { "number": 14, "before_gap": "they can (14)", "after_gap": " which might cause damage to their insides." },
-        { "number": 15, "before_gap": "you should (15)", "after_gap": ". They recommend a nice new toy or a lovely long walk." },
-        { "number": 16, "before_gap": "surprises, just (16)", "after_gap": " in leftover boxes and let them sniff them out!" }
-      ],
-      "options": [
-        {"letter": "A", "text": "contains higher doses"},
-        {"letter": "B", "text": "advise keeping these out of their reach"},
-        {"letter": "C", "text": "be fed to them"},
-        {"letter": "D", "text": "be given any alcohol"},
-        {"letter": "E", "text": "hide your dog's usual biscuits"},
-        {"letter": "F", "text": "be taken to the vet immediately"},
-        {"letter": "G", "text": "break into sharp pieces"},
-        {"letter": "H", "text": "get your dog an active present"},
-        {"letter": "I", "text": "have difficulty breathing"},
-        {"letter": "K", "text": "cause stomach problems for your pets"},
-        {"letter": "L", "text": "avoid giving them certain things"}
-      ],
-      "correct_answers": {
-        "0": { "option_letter": "C", "explanation": "The phrase 'shouldn't be fed to them' makes grammatical and contextual sense here, introducing what to avoid giving dogs." },
-        "9": { "option_letter": "L", "explanation": "The text states 'Things we can digest, they might struggle to, so we need to be careful to (9) avoid giving them certain things.' 'Avoid giving them certain things' fits the warning tone about unsafe foods." },
-        "10": { "option_letter": "A", "explanation": "'Dark chocolate... contains higher doses and is regarded as more toxic' logically follows, describing the chocolate's toxicity." },
-        "11": { "option_letter": "I", "explanation": "'Chocolate also contains caffeine, which causes pets to become restless and have difficulty breathing.' is a common side effect of caffeine, fitting the context." },
-        "12": { "option_letter": "B", "explanation": "For mince pies, 'It's not known what effect they have on cats, but vets (12) advise keeping these out of their reach.' fits, indicating veterinary advice to avoid them." },
-        "13": { "option_letter": "K", "explanation": "'Raw garlic and onions can (13) cause stomach problems for your pets if they eat them in large quantities.' describes a common health issue from these foods." },
-        "14": { "option_letter": "G", "explanation": "Cooked bones 'aren't suitable for your cat or dog as they can (14) break into sharp pieces which might cause damage to their insides.' 'Break into sharp pieces' explains the danger of cooked bones." },
-        "15": { "option_letter": "H", "explanation": "C suggests giving an active present (H) as opposed to food." },
-        "16": { "option_letter": "E", "explanation": "'If you want to have some surprises, just (16) hide your dog's usual biscuits in leftover boxes and let them sniff them out!' is a specific suggestion for giving treats creatively." }
-      }
+      "feladat_id": "language_in_use",
+      "cim": "2. feladat - Nyelvhelyesség",
+      "tipus": "feleletvalasztos",
+      "instrukciok": "Válassza ki a négy lehetőség közül a szót vagy kifejezést, amelyik a mondatba nyelvtanilag a leginkább illik.",
+      "kerdesek": [
+        {
+          "id": "AK_2024MAJ_LIU_01",
+          "kerdes": "If I had known you were coming, I ______ a cake.",
+          "valaszok": [
+            "would bake",
+            "will bake",
+            "baked",
+            "would have baked"
+          ],
+          "helyes_valasz_index": 3
+        }
+      ]
     },
     {
-      "section_id": "reading_task_3",
-      "type": "matching_paragraph_intros",
-      "task_description": "In the following text about challenges you may have when starting university, the first sentence of each paragraph has been removed. Your task is to match the sentences (A-K) to the appropriate paragraphs (17-23). Example (0): 'When you're starting uni, looking after yourself can be tough.'",
-      "context_reference": "reading_passages.task_3_uni_tips",
-      "options": [
-        {"letter": "A", "text": "Create a budget."},
-        {"letter": "B", "text": "Register at the nearest surgery."},
-        {"letter": "C", "text": "When you're starting uni, looking after yourself can be tough."},
-        {"letter": "D", "text": "Stick to a basic routine."},
-        {"letter": "E", "text": "Find a balance between study and life."},
-        {"letter": "F", "text": "Try to make new friends."},
-        {"letter": "G", "text": "Plan activities that don't involve spending money."},
-        {"letter": "H", "text": "Reflect on your emotions."},
-        {"letter": "I", "text": "Find out what support your uni offers."},
-        {"letter": "K", "text": "Talk to someone you know well and trust."}
-      ],
-      "paragraphs": [
-        { "number": 0, "text_begins": "It's scary being away from home in a new place with people you don't know well yet..." },
-        { "number": 17, "text_begins": "It's important not to struggle in silence. Opening up can be difficult but remember you're not alone. Schedule regular chats with family or friends back home." },
-        { "number": 18, "text_begins": "Most universities have helplines and counselling services. Search on the website to find out what is available at your university." },
-        { "number": 19, "text_begins": "Even if you don't need a doctor right now, it's a good idea to contact one so you can get help when you need it." },
-        { "number": 20, "text_begins": "This is especially important when everything is changing. Try to sleep enough, eat a balanced diet, and exercise when you can. These small things make a big difference to your mental health." },
-        { "number": 21, "text_begins": "Take breaks away from your desk, when you do something fun. Uni is about enjoying yourself as well as studying." },
-        { "number": 22, "text_begins": "If writing is your thing, keeping a diary will be helpful to track how you're feeling." },
-        { "number": 23, "text_begins": "It's normal to find it hard to socialize at first but keep trying. Try setting up fun activities with your housemates like game nights or watching a show together. You could also join a society to meet people." }
-      ],
-      "correct_answers": {
-        "0": { "option_letter": "C", "explanation": "The sentence 'When you're starting uni, looking after yourself can be tough.' serves as a perfect introductory statement to a section about self-care and mental health challenges at university." },
-        "17": { "option_letter": "K", "explanation": "The advice 'Talk to someone you know well and trust.' fits the paragraph about 'not to struggle in silence' and scheduling chats with family and friends." },
-        "18": { "option_letter": "I", "explanation": "The sentence 'Find out what support your uni offers.' naturally introduces the paragraph about 'helplines and counselling services' provided by universities." },
-        "19": { "option_letter": "B", "explanation": "The instruction 'Register at the nearest surgery.' is a sensible precursor to the advice about contacting a doctor even when not immediately needed." },
-        "20": { "option_letter": "D", "explanation": "The heading 'Stick to a basic routine.' leads into tips about 'sleep enough, eat a balanced diet, and exercise', which are routine activities important for mental health." },
-        "21": { "option_letter": "E", "explanation": "'Find a balance between study and life.' fits the paragraph encouraging breaks and enjoyment alongside studying." },
-        "22": { "option_letter": "H", "explanation": "'Reflect on your emotions.' relates to keeping a diary to 'track how you're feeling', suggesting a way to reflect." },
-        "23": { "option_letter": "F", "explanation": "'Try to make new friends.' is an appropriate introduction to the paragraph discussing challenges in socializing and tips like joining societies or activities with housemates." }
-      }
-    },
-    {
-      "section_id": "reading_task_4",
-      "type": "true_false_not_stated",
-      "task_description": "Evaluate the following statements based on the provided article 'COUPLE SETS RECORD AS OLDEST PAIR TO GET MARRIED'. Mark A if the statement is true, B if it is false, and C if the text does not say. Example (0): 'Mr. Littman's first marriage ended with a divorce.'",
-      "context_reference": "reading_passages.task_4_oldest_couple",
-      "statements": [
-        { "number": 0, "text": "Mr. Littman's first marriage ended with a divorce." },
-        { "number": 24, "text": "Ms. Fiterman and Mr. Littman had lived in different states before they moved to the retirement home in Philadelphia." },
-        { "number": 25, "text": "Ms. Fiterman and Mr. Littman remembered being in touch during their university years." },
-        { "number": 26, "text": "The couple had their first date outside the retirement home." },
-        { "number": 27, "text": "Mr. Littman's family were pleased to find out about the old man's relationship." },
-        { "number": 28, "text": "Mr. Littman's decision to get married surprised his family." },
-        { "number": 29, "text": "Mr. Littman had more children than Ms. Fiterman." },
-        { "number": 30, "text": "The couple were awarded the Guinness world record because Mr. Littman was the oldest man ever to get married." }
-      ],
-      "options": [
-        {"letter": "A", "text": "TRUE"},
-        {"letter": "B", "text": "FALSE"},
-        {"letter": "C", "text": "THE TEXT DOES NOT SAY"}
-        ],
-      "correct_answers": {
-        "0": { "option_letter": "B", "explanation": "The text states 'after their partners died', implying their first marriages ended due to death, not divorce. So, it's false."},
-        "24": { "option_letter": "C", "explanation": "The text only mentions that they both moved to the same retirement home in Philadelphia. It doesn't state where they lived before or if it was in different states. Therefore, the text does not say." },
-        "25": { "option_letter": "B", "explanation": "The text says 'they'd both attended the University of Pennsylvania at the same time, though they didn't meet each other then.' This implies they were NOT in touch during their university years, making the statement false." },
-        "26": { "option_letter": "C", "explanation": "The text mentions 'they met at a costume party' and their first date was 'the same day that one of his great-granddaughters was born.' It does not specify whether this first date took place inside or outside the retirement home. Therefore, the text does not say." },
-        "27": { "option_letter": "A", "explanation": "The text states 'His family was happy that he'd found someone he fell in love with.' This indicates they were pleased, making the statement true." },
-        "28": { "option_letter": "A", "explanation": "The text says 'Although the couple dated for nine years, the family never thought that the two might want to get married.' This clearly indicates that the family was surprised by their decision to marry, making the statement true." },
-        "29": { "option_letter": "C", "explanation": "The text mentions Mr. Littman's 'children, grandchildren and great-grandchildren' were present at the wedding. It does not provide any information about Ms. Fiterman's children. Therefore, the text does not say whether one had more children than the other." },
-        "30": { "option_letter": "B", "explanation": "The text says 'That broke the Guinness world record for the oldest couple to get married' due to their 'combined age of over 202 years', not because Mr. Littman himself was the oldest man ever to get married. This makes the statement false." }
-      }
-    },
-    {
-      "section_id": "grammar_task_1",
-      "type": "word_formation_gap_fill",
-      "task_description": "Use the words in brackets to form the words that fit in the gaps. Use only one word for each gap. Example (0): 'To end things on a (0) (slight) absurd...'",
-      "context_reference": null,
-      "gaps": [
-        { "number": 0, "original_word": "slight", "before_gap": "on a (0)", "after_gap": " absurd" },
-        { "number": 1, "original_word": "throw", "before_gap": "by (1)", "after_gap": " old household items" },
-        { "number": 2, "original_word": "injure", "before_gap": "serious (2)", "after_gap": " each year" },
-        { "number": 3, "original_word": "warn", "before_gap": "age-old (3)", "after_gap": ", Watch out below!'" },
-        { "number": 4, "original_word": "love", "before_gap": "for (4)", "after_gap": " of travelling" },
-        { "number": 5, "original_word": "reward", "before_gap": "will be (5)", "after_gap": " with trips" },
-        { "number": 6, "original_word": "far", "before_gap": "the (6)", "after_gap": " they'll travel" },
-        { "number": 7, "original_word": "type", "before_gap": "a (7)", "after_gap": " New-Year's-Eve party" },
-        { "number": 8, "original_word": "begin", "before_gap": "the (8)", "after_gap": " of a new year" },
-        { "number": 9, "original_word": "freeze", "before_gap": "a (9)", "after_gap": " lake and plant" }
-      ],
-      "correct_answers": {
-        "0": "slightly",
-        "1": "throwing",
-        "2": "injuries",
-        "3": "warning",
-        "4": "lovers",
-        "5": "rewarded",
-        "6": "farther/further",
-        "7": "typical",
-        "8": "beginning",
-        "9": "frozen/freezing"
-      }
-    },
-    {
-      "section_id": "grammar_task_2",
-      "type": "multiple_choice_options_per_gap",
-      "task_description": "Choose the most appropriate answer from the options (A-D) for each gap. Example (0): 'These days (0) ______ people can type faster...'",
-      "context_reference": null,
-      "gaps": [
-        { "number": 0, "before_gap": "These days (0)", "after_gap": " people can type faster" },
-        { "number": 10, "before_gap": "hand, particularly (10)", "after_gap": " they've grown up using laptops." },
-        { "number": 11, "before_gap": "and easily, (11)", "after_gap": " must certainly be a good thing." },
-        { "number": 12, "before_gap": "had no (12)", "after_gap": " to concentrate" },
-        { "number": 13, "before_gap": "but when (13)", "after_gap": " asked to explain" },
-        { "number": 14, "before_gap": "When the students (14)", "after_gap": " allowed to revise" },
-        { "number": 15, "before_gap": "reason (15)", "after_gap": " when using a pen" },
-        { "number": 16, "before_gap": "information more deeply (16)", "after_gap": " you can't possibly write" }
-      ],
-      "options_per_gap": [
-        [{"letter": "A", "text": "plenty"}, {"letter": "B", "text": "lot of"}, {"letter": "C", "text": "many"}, {"letter": "D", "text": "few"}],
-        [{"letter": "A", "text": "that"}, {"letter": "B", "text": "if"}, {"letter": "C", "text": "then"}, {"letter": "D", "text": "how"}],
-        [{"letter": "A", "text": "which"}, {"letter": "B", "text": "it"}, {"letter": "C", "text": "what"}, {"letter": "D", "text": "that"}],
-        [{"letter": "A", "text": "more chance"}, {"letter": "B", "text": "difficulty in"}, {"letter": "C", "text": "possibility"}, {"letter": "D", "text": "choice but"}],
-        [{"letter": "A", "text": "it was"}, {"letter": "B", "text": "the teacher"}, {"letter": "C", "text": "-"}, {"letter": "D", "text": "all of them"}],
-        [{"letter": "A", "text": "had"}, {"letter": "B", "text": "were"}, {"letter": "C", "text": "would be"}, {"letter": "D", "text": "have been"}],
-        [{"letter": "A", "text": "why is"}, {"letter": "B", "text": "for that"}, {"letter": "C", "text": "is that"}, {"letter": "D", "text": "for which"}],
-        [{"letter": "A", "text": "while"}, {"letter": "B", "text": "because"}, {"letter": "C", "text": "however,"}, {"letter": "D", "text": "in case"}]
-      ],
-       "correct_answers": {
-        "0": { "option_letter": "C", "explanation": "'Many' fits here as it refers to a large but unspecified number of people. 'Plenty' and 'lot of' typically follow a verb like 'there are'. 'Few' is opposite in meaning." },
-        "10": { "option_letter": "B", "explanation": "The text reads 'particularly (10) they've grown up using laptops'. 'If' establishes a condition or common circumstance here, fitting the sentence structure." },
-        "11": { "option_letter": "A", "explanation": "'...and easily, (11) which must certainly be a good thing.' 'Which' refers back to the skill of typing quickly and easily, introducing a clause that describes it." },
-        "12": { "option_letter": "D", "explanation": "'...had no (12) choice but to concentrate...'. 'Choice but' is the correct idiom, meaning they were forced to concentrate." },
-        "13": { "option_letter": "C", "explanation": "Based on external info matching this task context: '...but when asked to explain...'. C represents the blank." },
-        "14": { "option_letter": "B", "explanation": "'When the students (14) were allowed to revise from their notes...'. 'Were' is the correct past simple passive form for 'students allowed'." },
-        "15": { "option_letter": "C", "explanation": "'The reason (15) is that when using a pen and paper...'. 'Is that' correctly completes the phrase 'the reason is that...', explaining why they process information more deeply." },
-        "16": { "option_letter": "B", "explanation": "'...more deeply (16) because you can't possibly write it all down.'. 'Because' correctly introduces the reason why processing information deeply happens with pen and paper – the inability to write everything down necessitates deeper engagement." }
-      }
-    },
-    {
-      "section_id": "grammar_task_3",
-      "type": "single_word_gap_fill",
-      "task_description": "Complete the text by filling in the gaps (17-25) with only one word. Example (0): 'During the hot summer months in at (0) ______ two Swiss cities...'",
-      "context_reference": null,
-      "gaps": [
-        { "number": 0, "before_gap": "at (0)", "after_gap": " two Swiss cities" },
-        { "number": 17, "before_gap": "Depending (17)", "after_gap": " where you live" },
-        { "number": 18, "before_gap": "flow (18)", "after_gap": " go home" },
-        { "number": 19, "before_gap": "shaped (19)", "after_gap": " a fish" },
-        { "number": 20, "before_gap": "swimsuits (20)", "after_gap": " the day." },
-        { "number": 21, "before_gap": "swim (21)", "after_gap": " their bag" },
-        { "number": 22, "before_gap": "and (22)", "after_gap": " showers and toilets" },
-        { "number": 23, "before_gap": "While (23)", "after_gap": " usually looks peaceful" },
-        { "number": 24, "before_gap": "you (24)", "after_gap": " feel comfortable" },
-        { "number": 25, "before_gap": "As (25)", "after_gap": " as you're a competent swimmer" }
-      ],
-      "correct_answers": {
-        "0": "least",
-        "17": "on",
-        "18": "or",
-        "19": "like",
-        "20": "during",
-        "21": "with",
-        "22": "a few",
-        "23": "it",
-        "24": "should/can/may/might/could",
-        "25": "long"
-      }
+      "feladat_id": "essay_writing",
+      "cim": "3. feladat - Íráskészség",
+      "tipus": "essze",
+      "instrukciok": "Írjon 120-150 szavas esszét az alábbi témában. Adjon a levelének címet, és használjon megfelelő megszólítást és elköszönést.",
+      "kerdesek": [
+        {
+          "id": "AK_2024MAJ_EW_01",
+          "kerdes": "You have just returned from a holiday that you booked through a travel agency, but several things went wrong. Write a letter of complaint to the agency. You should: explain where you went, describe what went wrong, and say what you want the agency to do.",
+          "valaszok": [],
+          "helyes_valasz_index": null
+        }
+      ]
     }
   ]
 }
